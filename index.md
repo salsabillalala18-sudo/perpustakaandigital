@@ -4,7 +4,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [WEEDING 22 Juli 2025](ebook/WEEDING 22 Juli 2025.pdf) – Sabil dkk (2026) 
 2. [Dendam Perempuan](ebook/Dendam Perempuan.pdf)
-3. [Digital Curation (JIKN)] (ebook/Digital Curation (JIKN).pdf)
+3. [Digital Curation (JIKN)](ebook/Digital Curation (JIKN).pdf)
 4. [FENOMENA TEKNOLOGI INFORMASI PERPUSTAKAAN](ebook/FENOMENA TEKNOLOGI INFORMASI PERPUSTAKAAN.pdf)
 5. [ICA Module 1](ebook/ICA Module 1.pdf)
 6. [ICA Module 2](ebook/ICA Module 2.pdf)
